@@ -61,4 +61,4 @@ A relational database system built in SQL Server for managing customer support t
 
 ## Author
 
-Javaria Akbar — Bahria University, CS Semester 4
+Javaria Akbar| Bahria University, CS Semester 4
