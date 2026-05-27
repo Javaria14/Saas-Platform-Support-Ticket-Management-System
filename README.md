@@ -57,8 +57,4 @@ A relational database system built in SQL Server for managing customer support t
 - **SQL Server** (T-SQL)
 - Concepts used: DDL, DML, JOINs, subqueries, GROUP BY, HAVING, aggregations, foreign keys, default constraints
 
----
 
-## Author
-
-Javaria Akbar| Bahria University, CS Semester 4
